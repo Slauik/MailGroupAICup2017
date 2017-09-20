@@ -1,0 +1,7 @@
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\bin\Debug\client.exe
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\bin\Debug\client.pdb
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\obj\x86\Debug\client.exe
+C:\Users\Слава\Desktop\aicups-master\clients\c_sharp_client\client\obj\x86\Debug\client.pdb
